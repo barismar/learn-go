@@ -1,6 +1,6 @@
 # learn-go
 
-This repo contain any code and free resouruce to learn about Golang.
+This repo contain any code and free resource to learn about Golang.
 
 ## Guide to the contents of this repo
 
