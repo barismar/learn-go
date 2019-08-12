@@ -1,4 +1,4 @@
-## This is list of the resource
+## This is list of the resources
 
 * something
 * something
