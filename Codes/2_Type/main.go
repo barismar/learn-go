@@ -18,15 +18,15 @@ func main() {
 	fmt.Println(floatingPointNumber) //10.12
 
 	//String
-	fmt.Println(len("Hello World")) //11
-	fmt.Println("Hello World"[1])   //101
-	fmt.Printf("%c\n", "Hello World"[1])
-	fmt.Println("Hello " + "World")
+	fmt.Println(len("Hello World"))      //11
+	fmt.Println("Hello World"[1])        //101 ,(Code ASCII)
+	fmt.Printf("%c\n", "Hello World"[1]) // e ,Printf -> print with format
+	fmt.Println("Hello " + "World")      // Hello World ,Concat the 2 words
 
 	//Boolean
-	fmt.Println(true && true)
-	fmt.Println(true && false)
-	fmt.Println(true || true)
-	fmt.Println(true || false)
-	fmt.Println(!true)
+	fmt.Println(true && true)  // true
+	fmt.Println(true && false) // false
+	fmt.Println(true || true)  // true
+	fmt.Println(true || false) // true
+	fmt.Println(!true)         // false
 }
