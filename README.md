@@ -4,7 +4,7 @@ This repo contain any code and free resource to learn about Golang.
 
 ## Guide to the contents of this repo
 
-* The **Codes** folder contain any main.go code that suitable with the subject that tagged with folder name
+* The **Codes** folder contain any main.go code that suitable with the subject that tagged on the folder name itself.
 * The **Resources** folder contain any list of the free resource to learn about Golang.
 
 ## Getting Started
