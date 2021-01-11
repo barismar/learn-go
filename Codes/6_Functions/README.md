@@ -6,6 +6,8 @@ basic format for function:
 func name (parameter) type {
 
 }
+```
+```
 //With no return type
 func name (parameter) {
 
